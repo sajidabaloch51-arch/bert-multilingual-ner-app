@@ -1,0 +1,9 @@
+bert_ner_model/
+bert_ner_results/
+bert_logs/
+__pycache__/
+*.pyc
+.env
+*.token
+.config/
+sample_data/
