@@ -1,5 +1,7 @@
+
 streamlit
 torch
-transformer
+transformers
 huggingface_hub
 safetensors
+sentencepiece
